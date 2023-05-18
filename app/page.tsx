@@ -26,7 +26,7 @@ export default function Home() {
               NextBB
             </h2>
             <p className="text-sm text-gray-500">
-              The best description in the world
+              The edited description in the world
             </p>
           </div>
           <Suspense>
