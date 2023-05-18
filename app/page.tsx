@@ -36,10 +36,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col space-y-4">
           <p className="text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
+            This is an about page
           </p>
           <p className="text-gray-600">
             Duis aute irure dolor in reprehenderit in voluptate velit esse
