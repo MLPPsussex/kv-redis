@@ -23,7 +23,7 @@ export default function Home() {
         <div className="flex justify-between items-center mb-4">
           <div className="space-y-1">
             <h2 className="text-xl font-semibold">
-              Announcing Vercel KV for Redis
+              NextBB
             </h2>
             <p className="text-sm text-gray-500">
               The best description in the world
