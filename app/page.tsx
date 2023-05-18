@@ -74,7 +74,7 @@ export default function Home() {
           className="flex items-center space-x-2"
         >
           <Image
-            src="/brick.png"
+            src="/vercel.svg"
             alt="GitHub Logo"
             width={24}
             height={24}
